@@ -1,0 +1,136 @@
+﻿<NationalPark xmlns="https://rencarleon.github.io/cse445-a4"
+			   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			   xsi:schemaLocation="https://rencarleon.github.io/cse445-a4/NationalParks.xsd">
+	<NationalPark Rating="4.9" NearestAirport="Flagstaff">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address>
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark NearestAirport="Hancock County–Bar Harbor Airport">
+		<Name>Acadia</Name>
+		<Name>Acadia</Name>
+		<Phone>207-288-3338</Phone>
+		<Phone>207-288-8800</Phone>
+		<Phone>207-288-8813</Phone>
+		<Address>
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Big Bend</Name>
+		<Phone>432-477-2251</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Panther Dr</Street>
+			<City>Big Bend National Park</City>
+			<State>TX</State>
+			<Zip>79834</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Montrose Regional">
+		<Name>Black Canyon of the Gunnison</Name>
+		<Phone>970-641-2337</Phone>
+		<Address>
+			<Number>9800</Number>
+			<Street>Highway 347</Street>
+			<City>Montrose</City>
+			<State>CO</State>
+			<Zip>81401</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark NearestAirport="Wayne Wonderland">
+		<Name>Capitol Reef</Name>
+		<Phone>435-425-3791</Phone>
+		<Address>
+			<Number>52</Number>
+			<Street>West Headquarters Dr</Street>
+			<City>Fruita</City>
+			<State>UT</State>
+			<Zip>84775</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark NearestAirport="Lubbock Preston Smith International Airport">
+		<Name>Carlsbad Caverns</Name>
+		<Phone>575-785-2232</Phone>
+		<Phone>575-236-1374</Phone>
+		<Phone>575-785-2133</Phone>
+		<Address>
+			<Number>727</Number>
+			<Street>Carlsbad Caverns Hwy</Street>
+			<City>Carlsbad</City>
+			<State>NM</State>
+			<Zip>88220</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5" NearestAirport="Columbia Metropolitan Airport">
+		<Name>Congaree</Name>
+		<Address>
+			<Number>100</Number>
+			<Street>National Park Rd</Street>
+			<City>Hopkins</City>
+			<State>SC</State>
+			<Zip>29061</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark NearestAirport="Akron Fulton International Airport">
+		<Name>Cuyahoga Valley</Name>
+		<Phone>440-717-3890</Phone>
+		<Phone>440-546-5945</Phone>
+		<Address>
+			<Number>6947</Number>
+			<Street>Riverview Road</Street>
+			<City>Peninsula</City>
+			<State>OH</State>
+			<Zip>44264</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="St. Louis Lambert International Airport">
+		<Name>Gateway Arch</Name>
+		<Phone>877-982-1410</Phone>
+		<Phone>314-655-1600</Phone>
+		<Phone>314-655-1641</Phone>
+		<Phone>1-800-735-2966</Phone>
+		<Phone>314-655-1704</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>North 4th Street</Street>
+			<City>St. Louis</City>
+			<State>MO</State>
+			<Zip>63102</Zip>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Palm Springs International Airport">
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Phone>760-367-5554</Phone>
+		<Phone>760-367-3001</Phone>
+		<Phone>760-368-4367</Phone>
+		<Address>
+			<Number>6533</Number>
+			<Street>Freedom Way</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
