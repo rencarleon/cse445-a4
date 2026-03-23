@@ -20,11 +20,11 @@
 										<xs:element name="State" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
 										<xs:element name="Zip" type="xs:int" minOccurs="1" maxOccurs="1"></xs:element>
 									</xs:sequence>
+									<xs:attribute name="NearestAirport" type="xs:string" use="required"></xs:attribute>
 								</xs:complexType>
 							</xs:element>
 						</xs:sequence>
 						<xs:attribute name="Rating" type="xs:float" use="optional"></xs:attribute>
-						<xs:attribute name="NearestAirpot" type="xs:string" use="required"></xs:attribute>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
