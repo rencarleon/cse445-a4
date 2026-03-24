@@ -135,4 +135,19 @@
 			<Zip>92277</Zip>
 		</Address>
 	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Lake Clark</Name>
+		<Phone>907-644-3626</Phone>
+		<Phone>833-477-9357</Phone>
+		<Phone>907-683-2276</Phone>
+		<Phone>888-653-0009</Phone>
+		<Address NearestAirport="Ted Stevens Anchorage International Airport">
+			<Number>240</Number>
+			<Street>West 5th Avenue</Street>
+			<City>Anchorage</City>
+			<State>AK</State>
+			<Zip>99501</Zip>
+		</Address>
+	</NationalPark>
 </NationalParks>
